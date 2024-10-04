@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nsutian-saksham
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Java
+- 👀 I like to code a lot 
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate for Hackathons and Workshops
 - 📫 How to reach me : You can visit my social media handles
 - 😄 Pronouns: he/him
